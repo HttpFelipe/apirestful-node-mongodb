@@ -1,5 +1,7 @@
 # API RESTful NodeJS + Express + Mongo (CRUD) e autenticação(JWT)
 
+<img src="https://blog.geekhunter.com.br/wp-content/uploads/2021/02/1_mp91A9RzagntGGjBnwu4Yw.png">
+
 Este projeto é uma API RESTful com recursos de autenticação de usuário. Ele fornece endpoints para registrar novos usuários, autenticar usuários, gerenciar usuários (obter todos os usuários, obter usuário por ID, atualizar usuário por ID, excluir usuário por ID) e possui recursos de proteção de rotas usando tokens JWT (JSON Web Tokens).
 
 ## Funcionalidades
